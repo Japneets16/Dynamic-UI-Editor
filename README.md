@@ -1,6 +1,8 @@
 # 🎨 Furniture Customizer - Live UI Configuration Tool
 
 A powerful React-based furniture product customizer with a real-time visual configuration panel. This application allows you to design and customize furniture products with live preview across desktop and mobile layouts.
+**[View Live Demo on Vercel](https://dynamic-ui-editor-three.vercel.app/)**
+
 
 ![View](uieditor/screenshots/proj1.png)
 
