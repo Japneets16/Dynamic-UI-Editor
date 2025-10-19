@@ -2,11 +2,11 @@
 
 A powerful React-based furniture product customizer with a real-time visual configuration panel. This application allows you to design and customize furniture products with live preview across desktop and mobile layouts.
 
-![View](./screenshots/proj1.png)
+![View](uieditor/screenshots/proj1.png)
 
 # Changes in UI
-![Desktop View](./screenshots/proj2.png)
-![Mobile View](./screenshots/proj3.png)
+![Desktop View](uieditor/screenshots/proj2.png)
+![Mobile View](uieditor/screenshots/proj3.png)
 
 ## 🌟 Features
 
