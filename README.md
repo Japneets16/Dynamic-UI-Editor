@@ -54,8 +54,7 @@ A powerful React-based furniture product customizer with a real-time visual conf
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/furniture-customizer.git
-cd furniture-customizer
+git clone https://github.com/Japneets16/Dynamic-UI-Editor.git
 ```
 
 2. **Install dependencies**
@@ -73,7 +72,7 @@ yarn start
 ```
 
 4. **Open your browser**
-Navigate to `http://localhost:3000`
+Navigate to`http://localhost:5173/`
 
 ## 📁 Project Structure
 
